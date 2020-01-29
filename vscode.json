@@ -1,0 +1,34 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "terminal.integrated.shell.osx": "zsh",
+  "editor.matchBrackets": false,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Operator Mono, Menlo,  Monaco, 'Courier New', monospace",
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "editor.cursorBlinking": "solid",
+  "explorer.openEditors.visible": 0,
+  "workbench.colorCustomizations": {
+    // "terminal.background" : "#0e354b"
+  },
+  "extensions.ignoreRecommendations": true,
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "window.zoomLevel": 0,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.editor.showTabs": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "vscode_custom_css.policy": true,
+  "vscode_custom_css.imports": [
+    "file:///Users/venugopal.pikkala/.vscodestyles.css"
+  ],
+  "editor.lineHeight": 22,
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "cypress.json"
+      ],
+      "url": "https://on.cypress.io/cypress.schema.json"
+    }
+  ]
+}
