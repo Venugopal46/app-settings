@@ -1,0 +1,5 @@
+{
+  background: #3E4C57,
+  font: Operator Mono Book, 14px,
+  line-spacing: 1.1,
+}
